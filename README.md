@@ -114,7 +114,6 @@ The primary responsibility of a Full Stack Developer includes designing user int
        * React Js
        * Node Js
 
-*You can use this as a checklist in your journey*<br>
-**❤️ Thank you very much for reading ❤️**
+*You can use this as a checklist in your journey* |**❤️ Thank you very much for reading ❤️**
 
-Like | Share | Follow
+
