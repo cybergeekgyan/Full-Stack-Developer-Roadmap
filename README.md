@@ -43,3 +43,79 @@ The primary responsibility of a Full Stack Developer includes designing user int
    * React.js
    * Vue.js
    * Angular
+
+## 🚩 Back-End Technology (Any one of the following)
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/fullstack.jpg)
+
+   * Java
+   * Python
+   * C#
+   * Ruby
+   * Php
+   * Node.js (Easy and Latest)
+
+🚩 DataBases (Any one of each category)
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/databases.jpeg)
+
+   * SQL
+       * MySQL (Preferrable)
+       * SQL Server
+       * Oracle
+       * Postegre SQL
+   * NoSQL
+       * MongoDB (Preferrable)
+       * Cassandra
+       * CouchDB
+
+🚩 Version Control
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/versioncontrol.jpeg)
+
+   * Git
+   * GitHub (Preferrable) / GitLab / BitBucket
+
+🚩 Cloud Services (Any one of the following)
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/cloud%20service.png)
+
+   * Google Cloud Platform (GCP)
+   * Microsoft Azure
+   * Amazon Web Services (AWS)
+   * Heroku
+
+🚩 Containers
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/containers.png)
+
+   * Docker
+   * Kubernetes
+
+🚩 Servers (Any one of the following)
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/servers.jpeg)
+    * WebLogic
+    * Nginx
+    * Apache
+
+📌 Common terms for Full-Stack Development
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/meanstack.png)
+    MEAN Stack Developer
+        Mongo DB
+        Express Js
+        Angular Js
+        Node Js
+        
+        
+    MERN Stack Developer
+        Mongo DB
+        Express Js
+        React Js
+        Node Js
+
+You can use this blog as a checklist in your journey
+❤️ Thank you very much for reading ❤️
+
+Like | Share | Follow
