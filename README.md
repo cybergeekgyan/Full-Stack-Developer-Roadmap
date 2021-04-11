@@ -94,28 +94,26 @@ The primary responsibility of a Full Stack Developer includes designing user int
 
 🚩 Servers (Any one of the following)
 
-![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/servers.jpeg)
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/servers.jpeg)<br>
     * WebLogic
     * Nginx
     * Apache
 
 📌 Common terms for Full-Stack Development
 
-![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/meanstack.png)
-    MEAN Stack Developer
-        Mongo DB
-        Express Js
-        Angular Js
-        Node Js
+   * MEAN Stack Developer
+       * Mongo DB
+       * Express Js
+       * Angular Js
+       * Node Js
         
-        
-    MERN Stack Developer
-        Mongo DB
-        Express Js
-        React Js
-        Node Js
+   * MERN Stack Developer
+       * Mongo DB
+       * Express Js
+       * React Js
+       * Node Js
 
-You can use this blog as a checklist in your journey
-❤️ Thank you very much for reading ❤️
+*You can use this as a checklist in your journey*
+**❤️ Thank you very much for reading ❤️**
 
 Like | Share | Follow
