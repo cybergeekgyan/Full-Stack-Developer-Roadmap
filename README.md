@@ -95,9 +95,10 @@ The primary responsibility of a Full Stack Developer includes designing user int
 🚩 Servers (Any one of the following)
 
 ![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/servers.jpeg)<br>
-    * WebLogic
-    * Nginx
-    * Apache
+    
+   * WebLogic
+   * Nginx
+   * Apache
 
 📌 Common terms for Full-Stack Development
 
@@ -113,7 +114,7 @@ The primary responsibility of a Full Stack Developer includes designing user int
        * React Js
        * Node Js
 
-*You can use this as a checklist in your journey*
+*You can use this as a checklist in your journey*<br>
 **❤️ Thank you very much for reading ❤️**
 
 Like | Share | Follow
