@@ -27,3 +27,20 @@ The primary responsibility of a Full Stack Developer includes designing user int
     * Staying abreast of developments in web applications and programming languages.
 
 ## 📌 Tech-Stack for a Full-Stack Developer 
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/fullstackdeveloper.jpg)
+
+## 🚩 Basic Tech (Building blocks & All are important) 
+
+   
+  *  HTML: Defines the structure of the application
+  *  CSS: Defines how the application will be presented
+  *  JavaSript: Defines the functionality of the application
+
+## 🚩 Front-End Technology (Any one of the following)
+
+![alt text](https://github.com/gyanprakash0221/Full-Stack-Developer-Roadmap/blob/main/resources/images/building%20blocks.jpg)
+
+   * React.js
+   * Vue.js
+   * Angular
