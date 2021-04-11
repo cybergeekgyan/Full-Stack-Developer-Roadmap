@@ -116,7 +116,7 @@ The primary responsibility of a Full Stack Developer includes designing user int
 
 *You can use this as a checklist in your Full Stack Developer Journey* | 
 
-||Made with ❤️ by [Gyan Prakash](https://github.com/gyanprakash0221)**❤️ Thank you very much for reading ❤️**
+ Made with ❤️ by [Gyan Prakash](https://github.com/gyanprakash0221)**|| ❤️ Thank you very much for reading ❤️**
 
 
 
